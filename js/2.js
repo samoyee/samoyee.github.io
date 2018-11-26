@@ -10,35 +10,35 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _getPrototypeOf = __webpack_require__(97);
+var _getPrototypeOf = __webpack_require__(108);
 
 var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);
 
-var _classCallCheck2 = __webpack_require__(98);
+var _classCallCheck2 = __webpack_require__(109);
 
 var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
 
-var _createClass2 = __webpack_require__(99);
+var _createClass2 = __webpack_require__(110);
 
 var _createClass3 = _interopRequireDefault(_createClass2);
 
-var _possibleConstructorReturn2 = __webpack_require__(100);
+var _possibleConstructorReturn2 = __webpack_require__(111);
 
 var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);
 
-var _inherits2 = __webpack_require__(101);
+var _inherits2 = __webpack_require__(112);
 
 var _inherits3 = _interopRequireDefault(_inherits2);
 
 __webpack_require__(1533);
 
-var _react = __webpack_require__(16);
+var _react = __webpack_require__(17);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRouter = __webpack_require__(237);
+var _reactRouter = __webpack_require__(247);
 
-var _reactRedux = __webpack_require__(82);
+var _reactRedux = __webpack_require__(88);
 
 var _moment = __webpack_require__(1);
 
@@ -223,29 +223,29 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _getPrototypeOf = __webpack_require__(97);
+var _getPrototypeOf = __webpack_require__(108);
 
 var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);
 
-var _classCallCheck2 = __webpack_require__(98);
+var _classCallCheck2 = __webpack_require__(109);
 
 var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
 
-var _createClass2 = __webpack_require__(99);
+var _createClass2 = __webpack_require__(110);
 
 var _createClass3 = _interopRequireDefault(_createClass2);
 
-var _possibleConstructorReturn2 = __webpack_require__(100);
+var _possibleConstructorReturn2 = __webpack_require__(111);
 
 var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);
 
-var _inherits2 = __webpack_require__(101);
+var _inherits2 = __webpack_require__(112);
 
 var _inherits3 = _interopRequireDefault(_inherits2);
 
 __webpack_require__(1528);
 
-var _react = __webpack_require__(16);
+var _react = __webpack_require__(17);
 
 var _react2 = _interopRequireDefault(_react);
 
@@ -309,45 +309,45 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.AboutNav = exports.HomeNav = exports.CircleNav = exports.CircleNavConnect = undefined;
 
-var _extends2 = __webpack_require__(102);
+var _extends2 = __webpack_require__(71);
 
 var _extends3 = _interopRequireDefault(_extends2);
 
-var _getPrototypeOf = __webpack_require__(97);
+var _getPrototypeOf = __webpack_require__(108);
 
 var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);
 
-var _classCallCheck2 = __webpack_require__(98);
+var _classCallCheck2 = __webpack_require__(109);
 
 var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
 
-var _createClass2 = __webpack_require__(99);
+var _createClass2 = __webpack_require__(110);
 
 var _createClass3 = _interopRequireDefault(_createClass2);
 
-var _possibleConstructorReturn2 = __webpack_require__(100);
+var _possibleConstructorReturn2 = __webpack_require__(111);
 
 var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);
 
-var _inherits2 = __webpack_require__(101);
+var _inherits2 = __webpack_require__(112);
 
 var _inherits3 = _interopRequireDefault(_inherits2);
 
 __webpack_require__(1530);
 
-var _react = __webpack_require__(16);
+var _react = __webpack_require__(17);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRedux = __webpack_require__(82);
+var _reactRedux = __webpack_require__(88);
 
-var _reactRouter = __webpack_require__(237);
+var _reactRouter = __webpack_require__(247);
 
 var _avatar = __webpack_require__(1527);
 
 var _avatar2 = _interopRequireDefault(_avatar);
 
-var _actions = __webpack_require__(238);
+var _actions = __webpack_require__(248);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
